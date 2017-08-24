@@ -1,0 +1,14 @@
+com\motoz\model\Customer.class
+com\motoz\DaoImpl\CustomerDaoImpl.class
+com\motoz\AppConfig.class
+com\motoz\Dao\CustomerDao.class
+com\motoz\model\Category.class
+com\motoz\DaoImpl\ProductDaoImpl.class
+com\motoz\Dao\CategoryDao.class
+com\motoz\DaoImpl\SupplierDaoImpl.class
+com\motoz\motozbackend\App.class
+com\motoz\DaoImpl\CategoryDaoimpl.class
+com\motoz\model\Product.class
+com\motoz\Dao\SupplierDao.class
+com\motoz\Dao\ProductDao.class
+com\motoz\model\Supplier.class
